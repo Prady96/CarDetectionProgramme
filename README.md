@@ -1,2 +1,2 @@
 # CarDetectionProgramme
-Simple Car Detection Programme, Also the car counter is implememted
+Car Detection Programme, and also the car counter is implememted
